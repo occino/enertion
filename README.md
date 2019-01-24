@@ -1,6 +1,6 @@
 # Raptor GTX
 
-![MacDown logo](complete/DSC_0062.jpg)
+![Complete board](complete/DSC_0062.jpg)
 
 Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
 
