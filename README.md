@@ -1,6 +1,6 @@
 # Raptor GTX
 
-![Complete board](complete/DSC_0062.jpg?raw=true)
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/complete/board_plus_remote.JPG)
 
 Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
 
