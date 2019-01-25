@@ -23,7 +23,7 @@ I'm Nico from Berlin, Germany and I'm building electrial longboards since two ye
 
 
 ## GTX deck
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/deck/deck.JPG)
 The GTX deck by evolve is perfectly suited in my opinion because it comes with a notch for the battery pack. Furthermore it's flexible and looks nice.
 
 In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the screw holes, which are already drilled to mount the battery enclosure.
