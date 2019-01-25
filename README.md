@@ -30,7 +30,7 @@ In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I 
 
 The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
 
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure2.jpg)
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190122_075517.jpg)
 
 
 In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below.
@@ -41,7 +41,7 @@ In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into th
 
 ### FocBox Unity Case
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
-This case contains is the FocBox Unity as well as a battery voltage display and the power switch.
+This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion.
 
 
 ### Line Breaks
