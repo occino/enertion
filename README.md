@@ -33,7 +33,7 @@ The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to 
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190122_075517.jpg)
 
 
-In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below.
+In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below. This way I can use proper thread screws. The threaded sleeves are also used by the deck screws from the other side. This makes the construction pretty strong. 
 
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
 
