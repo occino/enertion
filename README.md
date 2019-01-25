@@ -28,7 +28,12 @@ In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I 
 ## Enclosure
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
 
-The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure. In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below.
+The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
+
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure2.jpg)
+
+
+In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below.
 
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
 
