@@ -35,7 +35,7 @@ The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to 
 
 
 ### FocBox Unity Case
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/foxbox.JPG)
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox.JPG)
 The FocBox Unity Case is the 3
 
 
