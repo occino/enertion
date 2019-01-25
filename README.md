@@ -1,27 +1,34 @@
-# Raptor GTX
+# "Raptor 2.1 GTX" | R-SPEC DRIVE | FocBox Unity | 12S3P | 3D printed custom enclosure
 
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/complete/DSC_0062.JPG)
 
-Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
+**Hi guys,**
 
-Let me introduce myself.
+I'm Nico from Berlin, Germany and I'm building electrial longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Title")].
+
+
+## Specs & features:
+
+* R-SPEC DRIVE KIT w/ 90mm wheels
+* FocBox Unity ESC
+* Evolve GTX deck
+* Custom 12S3P (Sony Konion US18650VTC5 2600mAh - 30A) + BMS
+* 3D printed custom enclosure + PVC bottom plate
+* Enertion Nano-X 2.4Ghz Controller
+* Voltage display
+* USB charging port module
+* Loop key
+
 
 
 
 ## GTX deck
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
+The GTX deck by evolve is perfectly suited in my opinion because it comes with a notch for the battery pack. Furthermore it's flexible and looks nice.
 
-**Markdown** is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found [here](http://daringfireball.net/projects/markdown/syntax).
-
-**MacDown** is created as a simple-to-use editor for Markdown documents. I render your Markdown contents real-time into HTML, and display them in a preview panel.
+In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the screw holes, which are already drilled to mount the battery enclosure.
 
 
-I support all the original Markdown syntaxes. But I can do so much more! Various popular but non-standard syntaxes can be turned on/off from the [**Markdown** preference pane](#markdown-pane).
-
-You can specify extra HTML rendering options through the [**Rendering** preference pane](#rendering-pane).
-
-You can customize the editor window to you liking in the [**Editor** preferences pane](#editor-pane):
-
-You can configure various application (that's me!) behaviors in the [**General** preference pane](#general-pane).
 
 ## Battery enclosure
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
@@ -348,5 +355,19 @@ Happy writing!
 [^quote]: **Quote** replaces literal `"` characters with html `<q>` tags. **Quote** and **Smartypants** are syntactically incompatible. If both are enabled, **Quote** takes precedence. Note that **Quote** is different from *blockquote*, which is part of standard Markdown.
 
 [^math]: Internet connection required.
+
+
+**Markdown** is a plain text formatting syntax created by John Gruber, aiming to provide a easy-to-read and feasible markup. The original Markdown syntax specification can be found [here](http://daringfireball.net/projects/markdown/syntax).
+
+**MacDown** is created as a simple-to-use editor for Markdown documents. I render your Markdown contents real-time into HTML, and display them in a preview panel.
+
+
+I support all the original Markdown syntaxes. But I can do so much more! Various popular but non-standard syntaxes can be turned on/off from the [**Markdown** preference pane](#markdown-pane).
+
+You can specify extra HTML rendering options through the [**Rendering** preference pane](#rendering-pane).
+
+You can customize the editor window to you liking in the [**Editor** preferences pane](#editor-pane):
+
+You can configure various application (that's me!) behaviors in the [**General** preference pane](#general-pane).
 
 
