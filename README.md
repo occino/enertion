@@ -19,21 +19,25 @@ I'm Nico from Berlin, Germany and I'm building electrial longboards since two ye
 * USB charging port module
 * Loop key
 
-
-
-
 ## GTX deck
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
 The GTX deck by evolve is perfectly suited in my opinion because it comes with a notch for the battery pack. Furthermore it's flexible and looks nice.
 
-In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the screw holes, which are already drilled to mount the battery enclosure.
+In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the original screw holes to mount the battery enclosure.
 
-
-
-## Battery enclosure
+## Enclosure
 ![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
 
-Before I tell you about all the extra syntaxes and capabilities I have, I'll introduce you to the basics of standard markdown. If you already know markdown, and want to jump straight to learning about the fancier things I can do, I suggest you skip to the [**Markdown** preference pane](#markdown-pane). Lets jump right in.  
+The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure. In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts.
+
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
+
+
+
+### FocBox Unity Case
+![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/foxbox.JPG)
+The FocBox Unity Case is the 3
+
 
 ### Line Breaks
 To force a line break, put two spaces and a newline (return) at the end of the line.
