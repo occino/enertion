@@ -27,11 +27,9 @@ In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I 
 
 ## Enclosure
 ![Enclosure1](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
-
 The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique which makes the enclosure flexible as well. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
 
 ![Enclosure2](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190126_122641.jpg)
-
 In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below. This way I can use proper thread screws. The threaded sleeves are also used by the deck screws from the other side. This makes the construction pretty strong. 
 
 ![Enclosure3](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
@@ -44,7 +42,12 @@ This case contains is the FocBox Unity as well as a battery voltage display and 
 
 ### Connector box
 ![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/connectorBox/connectorBox.jpg)
-The connector box the middle part and contains the 
+The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily.
+
+### Battery pack (12S3P, Sony Konion VTC5)
+![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
+12S3P or 10S4P? I chose both variants. 12S for more fun and 10S for more range. For the 12S3P pack I used 36 **Sony Konion US18650VTC5 cells 2600mAh** with a total capacity of 336Wh. I paid 128€ for 36 VTC5 cells on [eu.nkon.nl](https://eu.nkon.nl/ "Title"). 36 VTC6 cells with 3000mAh would have cost 207€ for additonal 53Wh. Because range is not that important to me I took the cheaper option.
+
 
 
 
