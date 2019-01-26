@@ -45,11 +45,17 @@ This case contains is the FocBox Unity as well as a battery voltage display and 
 The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily.
 
 ### Battery pack (12S3P, Sony Konion VTC5)
-![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
-12S3P or 10S4P? I chose both variants. 12S for more fun and 10S for more range. For the 12S3P pack I used 36 **Sony Konion US18650VTC5 cells 2600mAh** with a total capacity of 336Wh. I paid 128€ for 36 VTC5 cells on [eu.nkon.nl](https://eu.nkon.nl/ "Title"). 36 VTC6 cells with 3000mAh would have cost 207€ for additonal 53Wh. Because range is not that important to me I took the cheaper option.
+![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
+12S3P or 10S4P? I chose both variants. 12S for more fun and 10S for more range. For the 12S3P pack I used 36 **Sony Konion US18650VTC5 cells 2600mAh** with a total capacity of 336Wh. I paid 128€ for 36 VTC5 cells on [eu.nkon.nl](https://eu.nkon.nl/ "eu.nkon.nl"). 36 VTC6 cells with 3000mAh would have cost 207€ for additonal 53Wh. Because range is not that important to me I took the cheaper option.
 
+#### Spotwelding
+![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/spotwelder.JPG)
 
+For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") which is powered by a high discharge lipo. The nickels strips are pure nickel with 8mm x 0.3. I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells I used 4 layers of nickel (pyramid technique) to be on the safe side.
 
+![Battery2](https://raw.githubusercontent.com/occino/enertion/master/battery/batterySetup.jpg)
+
+![Battery3](https://raw.githubusercontent.com/occino/enertion/master/battery/pyramid.jpg)
 
 ### Line Breaks
 To force a line break, put two spaces and a newline (return) at the end of the line.
