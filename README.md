@@ -4,8 +4,7 @@
 
 **Hi guys,**
 
-I'm Nico from Berlin, Germany and I'm building electrial longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Enertion")].
-
+I'm Nico from Berlin, Germany and I'm building electric longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Enertion")].
 
 ## Specs & features:
 
