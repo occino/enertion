@@ -1,16 +1,16 @@
-# "Raptor 2.1 GTX" | R-SPEC DRIVE | FocBox Unity | 12S3P | 3D printed custom enclosure
+# "Raptor 2.1 GTX" | R-SPEC DRIVE | FOCBOX Unity | 12S3P | 3D printed custom enclosure
 
 ![Complete1](https://raw.githubusercontent.com/occino/enertion/master/complete/DSC_0062.JPG)
 
 **Hi guys,**
 
-I'm Nico from Berlin, Germany and I'm building electrial longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Title")].
+I'm Nico from Berlin, Germany and I'm building electrial longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Enertion")].
 
 
 ## Specs & features:
 
 * R-SPEC DRIVE KIT w/ 90mm wheels
-* FocBox Unity ESC
+* FOCBOX UNITY ESC
 * Evolve GTX deck
 * Custom 12S3P (Sony Konion US18650VTC5 2600mAh - 30A) + BMS
 * 3D printed custom enclosure + PVC bottom plate
@@ -28,21 +28,20 @@ In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I 
 ## Enclosure
 ![Enclosure1](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
 The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique which makes the enclosure flexible as well. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
+You can find all parts on [thingiverse](https://www.thingiverse.com/thing:3382660 "Thingiverse")
 
 ![Enclosure2](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190126_122641.jpg)
-In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below. This way I can use proper thread screws. The threaded sleeves are also used by the deck screws from the other side. This makes the construction pretty strong. 
+In order to mount the pvc plate underneath I pasted M4 threaded sleeves (5mm x 18mm) into the parts as you can see in the picture below. This way I can use proper thread screws. The threaded sleeves are also used by the deck screws from the other side. This makes the construction pretty strong. 
 
 ![Enclosure3](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
 
-
-
-### FocBox Unity case
-![FocBox1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
-This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
+### FOCBOX UNITY case
+![FOCBOX1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
+This case contains is the FOCBOX UNITY as well as a battery voltage display and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
 
 ### Connector box
 ![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/connectorBox/connectorBox.jpg)
-The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily.
+The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily. The receiver of the Enertion Nano-X 2.4Ghz Controller fits perfectly in a small compartment and doesn't need to be mounted with screws.
 
 ### Battery pack (12S3P, Sony Konion VTC5)
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
@@ -59,7 +58,7 @@ For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "k
 
 ![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_raw.jpg)
 
-The BMS is a cheap 13S circuit which can be used for 12S as well. It is only used for charging and not for discharging. To prevent the battery from over discharge I used the cut off setting of the focbox.
+The BMS is a cheap 13S circuit which can be used for 12S as well. It is only used for charging and not for discharging. To prevent the battery from over discharge I used the cut off setting of the FOCBOX UNITY.
 As I mentioned before I would like to use 12S3P and 10S4P. In order to get the same dimensions I printed 4 dummy cells as your can see on the picture below.
 
 ![Battery5](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
