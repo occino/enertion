@@ -37,11 +37,11 @@ In order to mount the pvc plate underneath I pasted M4 threaded sleeves (5mm x 1
 
 ### FOCBOX UNITY case
 ![FOCBOX1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
-This case contains is the FOCBOX UNITY as well as a battery voltage display and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
+This case contains is the FOCBOX UNITY as well as a battery voltage display ([link](https://de.aliexpress.com/item/0-36-DC0-100V-LED-Mini-Digital-Voltmeter-Blue-red-green-LED-Display-Volt-Meter/32817252098.html "link")) and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
 
 ### Connector box
 ![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/connectorBox/connectorBox.jpg)
-The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily. The receiver of the Enertion Nano-X 2.4Ghz Controller fits perfectly in a small compartment and doesn't need to be mounted with screws.
+The connector box is the middle part and contains the receiver, 3A USB charging module (LM2596HV, [link](https://de.aliexpress.com/item/LM2596HV-5V-DC-DC-Step-Down-Buck-Converter-Module-9V-12V-24V-36V-48V-to-5V/32831931798.html "link")), XT60 charging port, XT60 key loop and all the wiring. The charging port is connected to the BMS via XT30 in order to switch the battery easily. The receiver of the Enertion Nano-X 2.4Ghz Controller fits perfectly in a small compartment and doesn't need to be mounted with screws.
 
 ### Battery pack (12S3P, Sony Konion VTC5)
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
@@ -75,9 +75,11 @@ After inserting the battery and connecting the XT60 and XT30 the only thing left
 
 ![Battery8](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure_bottom.jpg)
 
-That's it. Just and easy, modular build :)
+That's it. Just a easy, modular build :)
 
 What do you think? Any suggestions for improvements?
+
+If you have any questions please feel free to drop a message.
 
 Cheers, Nico
 
