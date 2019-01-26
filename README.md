@@ -1,6 +1,6 @@
 # "Raptor 2.1 GTX" | R-SPEC DRIVE | FocBox Unity | 12S3P | 3D printed custom enclosure
 
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/complete/DSC_0062.JPG)
+![Complete1](https://raw.githubusercontent.com/occino/enertion/master/complete/DSC_0062.JPG)
 
 **Hi guys,**
 
@@ -20,27 +20,26 @@ I'm Nico from Berlin, Germany and I'm building electrial longboards since two ye
 * Loop key
 
 ## GTX deck
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
+![GTX1](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
 The GTX deck by evolve is perfectly suited in my opinion because it comes with a notch for the battery pack. Furthermore it's flexible and looks nice.
 
 In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the original screw holes to mount the battery enclosure.
 
 ## Enclosure
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
+![Enclosure1](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
 
 The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
 
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190122_075517.jpg)
-
+![Enclosure2](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190126_122641.jpg)
 
 In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into the parts as you can see in the picture below. This way I can use proper thread screws. The threaded sleeves are also used by the deck screws from the other side. This makes the construction pretty strong. 
 
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
+![Enclosure3](https://raw.githubusercontent.com/occino/enertion/master/focbox/DSC_0018.JPG)
 
 
 
 ### FocBox Unity Case
-![Complete board](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
+![FocBox1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
 This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion.
 
 
