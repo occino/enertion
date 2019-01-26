@@ -70,3 +70,14 @@ After adding all the wires I added felt pads on all edges which should absorb sh
 Finally I used 200mm shrink tube and a hot air gun to close the battery pack.
 
 ![Battery7](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190126_150100.jpg)
+
+After inserting the battery and connecting the XT60 and XT30 the only thing left is the bottom plate.
+
+![Battery8](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure_bottom.jpg)
+
+That's it. Just and easy, modular build :)
+
+What do you think? Any suggestions for improvements?
+
+Cheers, Nico
+
