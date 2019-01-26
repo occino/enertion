@@ -43,8 +43,8 @@ In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into th
 This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
 
 ### Connector box
-![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/focbox/IMG_20190118_230232.jpg)
-
+![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/connectorBox/connectorBox.jpg)
+The connector box the middle part and contains the 
 
 
 
