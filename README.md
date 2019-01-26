@@ -28,7 +28,7 @@ In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I 
 ## Enclosure
 ![Enclosure1](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
 
-The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
+The enclosure is a modular 3D printed frame with a pvc plate underneath. Due to the dimension limits of 3D printing I decided to design a modular system which can be printed in multiple parts. To ensure water resistence I used a tongue and groove technique which makes the enclosure flexible as well. I also used sponge rubber between deck and enclosure and pvc plate and enclosure.
 
 ![Enclosure2](https://raw.githubusercontent.com/occino/enertion/master/enclosure/IMG_20190126_122641.jpg)
 
@@ -38,9 +38,14 @@ In order to mount the pvc plate underneath I pasted 4mm threaded sleeves into th
 
 
 
-### FocBox Unity Case
+### FocBox Unity case
 ![FocBox1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
-This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion.
+This case contains is the FocBox Unity as well as a battery voltage display and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
+
+### Connector box
+![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/focbox/IMG_20190118_230232.jpg)
+
+
 
 
 ### Line Breaks
