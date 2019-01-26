@@ -1,4 +1,4 @@
-# "Raptor 2.1 GTX" | R-SPEC DRIVE | FOCBOX Unity | 12S3P | 3D printed custom enclosure
+# "Raptor 2.1 GTX" | R-SPEC DRIVE | FOCBOX Unity | 12S3P VTC5 | 3D printed custom enclosure
 
 ![Complete1](https://raw.githubusercontent.com/occino/enertion/master/complete/DSC_0062.JPG)
 
@@ -12,7 +12,7 @@ I'm Nico from Berlin, Germany and I'm building electrial longboards since two ye
 * R-SPEC DRIVE KIT w/ 90mm wheels
 * FOCBOX UNITY ESC
 * Evolve GTX deck
-* Custom 12S3P (Sony Konion US18650VTC5 2600mAh - 30A) + BMS
+* Custom 12S3P battery pack w/ VTC5 + BMS
 * 3D printed custom enclosure + PVC bottom plate
 * Enertion Nano-X 2.4Ghz Controller
 * Voltage display
