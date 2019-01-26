@@ -51,11 +51,19 @@ The connector box is the middle part and contains the receiver, 3A USB charging 
 #### Spotwelding
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/spotwelder.JPG)
 
-For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") which is powered by a high discharge lipo. The nickels strips are pure nickel with 8mm x 0.3. I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells I used 4 layers of nickel (pyramid technique) to be on the safe side.
+For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") which is powered by a high discharge lipo. The nickels strips are pure nickel with 8mm x 0.3. I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells I used 4 layers of nickel (pyramid technique) at the S-transitions to be on the safe side.
 
 ![Battery2](https://raw.githubusercontent.com/occino/enertion/master/battery/batterySetup.jpg)
 
 ![Battery3](https://raw.githubusercontent.com/occino/enertion/master/battery/pyramid.jpg)
+
+![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_raw.jpg)
+
+![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
+
+![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_padding.jpg)
+
+
 
 ### Line Breaks
 To force a line break, put two spaces and a newline (return) at the end of the line.
