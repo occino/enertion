@@ -59,9 +59,18 @@ For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "k
 
 ![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_raw.jpg)
 
-![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
+The BMS is a cheap 13S circuit which can be used for 12S as well. It is only used for charging and not for discharging. To prevent the battery from over discharge I used the cut off setting of the focbox.
+As I mentioned before I would like to use 12S3P and 10S4P. In order to get the same dimensions I printed 4 dummy cells as your can see on the picture below.
 
-![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_padding.jpg)
+![Battery5](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
+
+After adding all the wires I added felt pads on all edges which should absorb shocks. 
+
+![Battery6](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_padding.jpg)
+
+Finally I used 200mm shrink tube and a hot air gun to close the battery pack.
+
+![Battery7](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_shrink_tube.jpg)
 
 
 
