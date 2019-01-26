@@ -4,7 +4,7 @@
 
 **Hi guys,**
 
-I'm Nico from Berlin, Germany and I'm building electric longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the "Enertion R-SPEC DRIVE KIT | Best Build Competition" [[click here](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Enertion")].
+I'm Nico from Berlin, Germany and I'm building electric longboards since two years now. I would like to share with you my latest and easiest build which is basically a Raptor 2.1 with at GTX deck. I'm also motivated to write this post because of the **Enertion R-SPEC DRIVE KIT | Best Build Competition** [[link](https://www.electric-skateboard.builders/t/enertion-r-spec-drive-kit-best-build-competition-win-cash-back/ "Enertion")].
 
 ## Specs & features:
 
@@ -20,9 +20,9 @@ I'm Nico from Berlin, Germany and I'm building electric longboards since two yea
 
 ## GTX deck
 ![GTX1](https://raw.githubusercontent.com/occino/enertion/master/deck/DSC_0008.JPG)
-The GTX deck by evolve is perfectly suited in my opinion because it comes with a notch for the battery pack. Furthermore it's flexible and looks nice.
+The GTX deck by evolve [[link](https://evolveskateboardsusa.com/products/deck-bamboo-gtx "Evolve")] is perfectly suited in my opinion because it comes already with a notch for the battery pack. Furthermore it's flexible and looks nice.
 
-In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the original screw holes to mount the battery enclosure.
+In order to use a 10S4P battery, the notch had to be enlarged for about 1 cm. I used the original screw holes to mount the enclosure.
 
 ## Enclosure
 ![Enclosure1](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure.png)
@@ -36,7 +36,7 @@ In order to mount the pvc plate underneath I pasted M4 threaded sleeves (5mm x 1
 
 ### FOCBOX UNITY case
 ![FOCBOX1](https://raw.githubusercontent.com/occino/enertion/master/focbox/focbox_case.JPG)
-This case contains is the FOCBOX UNITY as well as a battery voltage display ([link](https://de.aliexpress.com/item/0-36-DC0-100V-LED-Mini-Digital-Voltmeter-Blue-red-green-LED-Display-Volt-Meter/32817252098.html "link")) and the power switch provided by enertion. The voltage display is powered by the CAN  bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the the FoxBox sits tightly in the compartment there is no need to mount it with screws.
+This case contains the FOCBOX UNITY as well as a battery voltage display ([link](https://de.aliexpress.com/item/0-36-DC0-100V-LED-Mini-Digital-Voltmeter-Blue-red-green-LED-Display-Volt-Meter/32817252098.html "link")) and the power switch provided by enertion. The voltage display is powered by the CAN bus port (5V, GND) and the measuring wire is connected to the BATT+ pin of the AUX port. Because the FOCBOX sits tightly in the compartment there is no need to mount it with screws.
 
 ### Connector box
 ![ConnectorBox1](https://raw.githubusercontent.com/occino/enertion/master/connectorBox/connectorBox.jpg)
@@ -49,7 +49,7 @@ The connector box is the middle part and contains the receiver, 3A USB charging 
 #### Spotwelding
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/spotwelder.JPG)
 
-For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") which is powered by a high discharge lipo. The nickels strips are pure nickel with 8mm x 0.3. I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells I used 4 layers of nickel (pyramid technique) at the S-transitions to be on the safe side.
+For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") which is powered by a high discharge lipo. The nickel strips are pure nickel with 8mm x 0.3mm. I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells I used 4 layers of nickel (pyramid technique) at the S-transitions to be on the safe side.
 
 ![Battery2](https://raw.githubusercontent.com/occino/enertion/master/battery/batterySetup.jpg)
 
@@ -58,7 +58,7 @@ For spotwelding I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "k
 ![Battery4](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_raw.jpg)
 
 The BMS is a cheap 13S circuit which can be used for 12S as well. It is only used for charging and not for discharging. To prevent the battery from over discharge I used the cut off setting of the FOCBOX UNITY.
-As I mentioned before I would like to use 12S3P and 10S4P. In order to get the same dimensions I printed 4 dummy cells as your can see on the picture below.
+As I mentioned before I would like to use 12S3P and 10S4P battery packs in the battery compartment. In order to get the same dimensions I printed a 2x2 dummy cell construction as your can see on the picture below.
 
 ![Battery5](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
 
@@ -74,7 +74,7 @@ After inserting the battery and connecting the XT60 and XT30 the only thing left
 
 ![Battery8](https://raw.githubusercontent.com/occino/enertion/master/enclosure/enclosure_bottom.jpg)
 
-That's it. Just a easy, modular build :)
+That's it. Just an easy, modular build :)
 
 What do you think? Any suggestions for improvements?
 
