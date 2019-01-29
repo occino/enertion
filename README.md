@@ -48,7 +48,6 @@ The connector box is the middle part of the enclosure and contains receiver, 3A 
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/battery.jpg)
 12S3P or 10S4P? I chose both variants. 12S for more fun and 10S for more range. For the 12S3P pack I used 36 **Sony Konion US18650VTC5 cells 2600mAh** with a total capacity of 336Wh. I paid 128€ for 36 VTC5 cells on [eu.nkon.nl](https://eu.nkon.nl/ "eu.nkon.nl"). 36 VTC6 cells with 3000mAh would have cost 207€ for additonal 53Wh. Range is not that important to me, so I took the cheaper option.
 
-#### Spotwelding
 ![Battery1](https://raw.githubusercontent.com/occino/enertion/master/battery/spotwelder.JPG)
 
 For spotwelding, I used the amazing kWeld by [keenlab](https://www.keenlab.de/ "keenlab") powered by a high discharge lipo. The nickel strips are pure nickel  (8mm x 0.3mm). I made some tests and figured out that they can easily handle 25A. In order to archive the full rated 90A of the cells, I used 4 layers of nickel (pyramid technique) at the S-transitions to be on the safe side.
