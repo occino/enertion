@@ -64,7 +64,7 @@ As I mentioned before, I would like to use 12S3P and 10S4P battery packs in the 
 
 ![Battery5](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_bms.jpg)
 
-After adding all the wires, I added felt pads on all edges which should absorb shocks. 
+After adding all the wires, I added felt pads on all edges which should absorb shocks and keep the pack tight in the battery compartment.
 
 ![Battery6](https://raw.githubusercontent.com/occino/enertion/master/battery/pack_padding.jpg)
 
